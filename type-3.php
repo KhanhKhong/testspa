@@ -82,9 +82,9 @@
                         <div id="navbar" class="collapse navbar-collapse nav-custom">
                             <ul class="nav navbar-nav navbar-right margin-0 marright-10">
                                 <li><a class="menu-title" href="#">GIỚI THIỆU</a></li>
-                                <li><a class="menu-title" href="#about">DỊCH VỤ</a></li>
-                                <li><a class="menu-title" href="#contact">SẢN PHẨM</a></li>
-                                <li><a class="menu-title" href="#contact">TIN TỨC VÀ KHUYẾN MÃI</a></li>
+                                <li><a class="menu-title" href="type-dichvu.php">DỊCH VỤ</a></li>
+                                <li><a class="menu-title" href="#">SẢN PHẨM</a></li>
+                                <li><a class="menu-title" href="#">TIN TỨC VÀ KHUYẾN MÃI</a></li>
                             </ul>
                         </div>
                         <!--/.nav-collapse -->

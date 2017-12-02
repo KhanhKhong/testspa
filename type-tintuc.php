@@ -96,99 +96,17 @@
             
             <!--service-->
             <div class="container">
-                <h2 class="box-heading text-uppercase text-center">DỊCH VỤ</h2>
-                <div class="row">
-
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
+                <h2 class="box-heading text-uppercase text-center">TIN TỨC & KHUYẾN MÃI</h2>
+                <div class="box-content">
+                    <h3>LÀM ĐẸP LÀ ĐẶC QUYỀN CỦA PHÁI ĐẸP</h3>
+                    <p>
+                    Chào mừng ngày phụ nữ Việt Nam 20/10, Belas Spa dành tặng Quý Khách Hàng chương trình khuyến mãi lớn cho tất cả các dịch vụ tại cả 3 chi nhánh.
+                    Theo đó, khách hàng trị liệu trong dịp này sẽ được:
+                    -Giảm đến 50% dịch vụ tắm trắng yến mạch sữa tươi
+                    -Giảm đến 60% dịch vụ triệt lông công nghệ mới NewIPL phiên bản 2015
+                    -Giảm đến 45% các dịch vụ đặc trị & chăm sóc da
+                    -Giảm đến 15% và tặng dịch vụ phun mí vi điểm cho dịch vụ phun thêu thẩm mỹ Hàn Quốc.</p>
+                    <div class="clear"></div>
                 </div>
             </div>
 
@@ -271,25 +189,25 @@
 <script type="text/javascript" src="js/main.js"></script>
 <script>
 
-var affixElement = '#navbar-main';
-$(affixElement).affix({
-  offset: {
+    var affixElement = '#navbar-main';
+    $(affixElement).affix({
+      offset: {
     // Distance of between element and top page
     top: function () {
       return (this.top = $(affixElement).offset().top)
-    },
+  },
     // when start #footer 
     bottom: function () { 
       return (this.bottom = $('#footer').outerHeight(true))
-    }
   }
+}
 });
 
-function activaTab(tab){
-    $('.tab-pane a[href="#' + tab + '"]').tab('show');
-};
-$(document).ready(function(){
-    activaTab('chamsocda');
-});
+    function activaTab(tab){
+        $('.tab-pane a[href="#' + tab + '"]').tab('show');
+    };
+    $(document).ready(function(){
+        activaTab('chamsocda');
+    });
 </script>
 </html>

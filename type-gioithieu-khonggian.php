@@ -96,99 +96,16 @@
             
             <!--service-->
             <div class="container">
-                <h2 class="box-heading text-uppercase text-center">DỊCH VỤ</h2>
-                <div class="row">
-
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
+                <h2 class="box-heading text-uppercase text-center">KHÔNG GIAN SPA</h2>
+                <div class="box-content">
+                    Tọa lạc tại 8-10 Nguyễn Thị Thập, KDC Him Lam, Phường Tân Hưng, Quận 7, Tp. Hồ Chí Minh, Sỏi Spa được rất nhiều du khách trong và ngoài nước biết đến. Đến &nbsp;với Sỏi Spa Quý khách sẽ cảm nhận không gian hiện đại, sang trọng nhưng vẫn mang phong cách thuần việt đặc trưng, Sỏi Spa đem đến không gian ấm cúng, gần gũi. Ngoài ra, khu vực chăm sóc tóc, nail với các chuyên da hàng đầu và nhiều năm kinh nghiệm trong ngành sẽ thật sự làm hài lòng các thượng đế khó tính nhất. Khu café không gian yên tỉnh, thoáng mát để bạn bè họp mặt và các cặp đôi có không gian trò chuyện...&nbsp;<br>
+                    <br>
+                    Khi cuộc sống càng hiện đại thì môi trường càng ảnh hưởng rất nhiều đến tinh thần, cùng với tác động của rượu, bia hay &nbsp;áp lực công việc cũng dẫn đến stress, những mệt mỏi không đáng có. Trung tâm Sỏi Spa đã ra đời và trở thành một nơi lý tưởng cho Quý khách tận hưởng những giây phút thư giãn và lấy lại tinh thần sảng khoái, năng động sau một ngày làm việc căng thẳng.<br>
+                    <br>
+                    Quy trình phục hồi sức khỏe bằng các dịch Massage kết hợp bấm huyệt trị liệu và sự cam kết sử dụng hoàn toàn nguyên liệu bằng thảo dược tự nhiên Quý khách cảm nhận trọn vẹn nguồn sinh lực mới và bổ sung đầy đủ năng lượng cho cơ thể.<br>
+                    <br>
+                    Sỏi spa rất hân hạnh mang đến cho Quý khách món quà ý nghĩa nhất trong cuộc sống đó là sức khỏe bằng những dịch vụ hoàn hảo và đó cũng chính là niềm vinh hạnh của toàn thể nhân viên và kỹ thuật viên tại Sỏi spa.&nbsp;<br>
+                    <div class="clear"></div>
                 </div>
             </div>
 
@@ -271,25 +188,25 @@
 <script type="text/javascript" src="js/main.js"></script>
 <script>
 
-var affixElement = '#navbar-main';
-$(affixElement).affix({
-  offset: {
+    var affixElement = '#navbar-main';
+    $(affixElement).affix({
+      offset: {
     // Distance of between element and top page
     top: function () {
       return (this.top = $(affixElement).offset().top)
-    },
+  },
     // when start #footer 
     bottom: function () { 
       return (this.bottom = $('#footer').outerHeight(true))
-    }
   }
+}
 });
 
-function activaTab(tab){
-    $('.tab-pane a[href="#' + tab + '"]').tab('show');
-};
-$(document).ready(function(){
-    activaTab('chamsocda');
-});
+    function activaTab(tab){
+        $('.tab-pane a[href="#' + tab + '"]').tab('show');
+    };
+    $(document).ready(function(){
+        activaTab('chamsocda');
+    });
 </script>
 </html>

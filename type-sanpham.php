@@ -78,12 +78,12 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand menu-title" href="type-3.php">TRANG CHỦ</a>
+                            <a class="navbar-brand menu-title" href="#">TRANG CHỦ</a>
                         </div>
                         <div id="navbar" class="collapse navbar-collapse nav-custom">
                             <ul class="nav navbar-nav navbar-right margin-0 marright-10">
                                 <li><a class="menu-title" href="#">GIỚI THIỆU</a></li>
-                                <li><a class="menu-title" href="type-dichvu.php">DỊCH VỤ</a></li>
+                                <li><a class="menu-title" href="#about">DỊCH VỤ</a></li>
                                 <li><a class="menu-title" href="#contact">SẢN PHẨM</a></li>
                                 <li><a class="menu-title" href="#contact">TIN TỨC VÀ KHUYẾN MÃI</a></li>
                             </ul>
@@ -96,99 +96,20 @@
             
             <!--service-->
             <div class="container">
-                <h2 class="box-heading text-uppercase text-center">DỊCH VỤ</h2>
+                <h2 class="box-heading text-uppercase text-center">SẢN PHẨM</h2>
                 <div class="row">
-
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        ádasdasd
                     </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        ádasdasd
                     </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        ádasdasd
                     </div>
-                    
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        ádasdasd
+                    </div>
                 </div>
             </div>
 

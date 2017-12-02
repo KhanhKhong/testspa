@@ -4,7 +4,7 @@
 }
 .type-3 a {
   text-decoration: none;
-  color: #fff;
+  color: #333;
 }
 .type-3 .margin-0 {
   margin: 0;
@@ -625,6 +625,9 @@
   border: 1px solid #fff;
   background-color: #915DF0;
   position: relative;
+}
+.type-3 .book-now a {
+  color: #fff;
 }
 .type-3 .top-left {
   width: 0;

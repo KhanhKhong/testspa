@@ -96,100 +96,28 @@
             
             <!--service-->
             <div class="container">
-                <h2 class="box-heading text-uppercase text-center">DỊCH VỤ</h2>
-                <div class="row">
+                <h2 class="box-heading text-uppercase text-center">TUYỂN DỤNG</h2>
+                <div class="box-content">
 
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft  animated animated animated fade-service-left" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s" >
-                        <div class="item-service">
-                            <div class="thumb">
-                                <img src="../images/xoa-bop-bam-huyet-giam-dau-xuong-1024x714.jpg" alt="Sự thật đằng sau những công nghệ triệt lông vĩnh viễn" class="img-responsive">
-                            </div>
-                            <div class="caption martop-25">
-                                <div>
-                                    <span class="pull-left title text-brown product-title">Yoga & Mediation Courses</span>
-                                    <span class="pull-right sr-price">$ 28.00</span>
-                                </div>
-                                <br>
-                                <p class="martop-25 sr-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                <div class="text-uppercase pull-right btn-booknow">
-                                    <p class="book-now">
-                                        <a href="#">
-                                            <span class="top-left pull-left"></span>
-                                                book now
-                                            <span class="top-right pull-right"></span>
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
+                    <ol>
+                       <li>Kỹ thuật viên chăm sóc da mặt.</li>
+                       <li>Kỹ thuật viên massage body, massage foot.</li>
+                       <li>Nhân viên pha chế và phục vụ cà phê</li>
+                   </ol>
+                   Điều kiện : Nam, Nữ 18 _ 30 tuổi. Làm việc tại Quận 1 và Quận 7<br>
+                   &nbsp;<br>
+                   Làm việc trong môi trường lành mạnh, chuyên nghiệp. Sẽ được đào tạo từ cơ bản đến nâng cao các môn massage như: massage thái, massage hongkong, massage nhật, massage chân, day ấn huyệt, massage mặt, chăm sóc da bởi những người quản lý chuyên nghiệp, làm việc lâu năm trong nghề, . Sử dụng mỹ phẩm chuyên nghiệp cho Spa, chất lượng an toàn, hiệu quả và tiêu chuẩn.<br>
+                   &nbsp;
+                   <ul>
+                       <li>Làm việc theo ca</li>
+                       <li>Lương cơ bản + phần trăm dịch vụ.</li>
+                       <li>Phụ cấp tiền xe và tiền ăn.</li>
+                       <li>Ký hợp đồng và bảo hiểm y tế...v.v.v..</li>
+                   </ul>
+
+                   
+                <div class="clear"></div>
+            </div>
             </div>
 
 
@@ -271,25 +199,25 @@
 <script type="text/javascript" src="js/main.js"></script>
 <script>
 
-var affixElement = '#navbar-main';
-$(affixElement).affix({
-  offset: {
+    var affixElement = '#navbar-main';
+    $(affixElement).affix({
+      offset: {
     // Distance of between element and top page
     top: function () {
       return (this.top = $(affixElement).offset().top)
-    },
+  },
     // when start #footer 
     bottom: function () { 
       return (this.bottom = $('#footer').outerHeight(true))
-    }
   }
+}
 });
 
-function activaTab(tab){
-    $('.tab-pane a[href="#' + tab + '"]').tab('show');
-};
-$(document).ready(function(){
-    activaTab('chamsocda');
-});
+    function activaTab(tab){
+        $('.tab-pane a[href="#' + tab + '"]').tab('show');
+    };
+    $(document).ready(function(){
+        activaTab('chamsocda');
+    });
 </script>
 </html>
