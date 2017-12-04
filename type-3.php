@@ -80,9 +80,23 @@
                             <a class="navbar-brand menu-title" href="#">TRANG CHỦ</a>
                         </div>
                         <div id="navbar" class="collapse navbar-collapse nav-custom">
-                            <ul class="nav navbar-nav navbar-right margin-0 marright-10">
-                                <li><a class="menu-title" href="#">GIỚI THIỆU</a></li>
-                                <li><a class="menu-title" href="type-dichvu.php">DỊCH VỤ</a></li>
+                            <ul class="nav navbar-nav navbar-right margin-0 marright-10 mb-0">
+                                <li class="dropdown">
+                                    <a class="menu-title dropdown-toggle" data-toggle="dropdown" href="#">GIỚI THIỆU</a>
+                                    <ul class="dropdown-menu" style="display: none;">
+                                        <li><a href="#">Không gian spa</a></li>
+                                        <li><a href="#">Đội ngũ nhân viên</a></li>
+                                        <li><a href="#">Tuyển dụng</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a class="menu-title dropdown-toggle" data-toggle="dropdown" href="type-dichvu.php">DỊCH VỤ</a>
+                                    <ul class="dropdown-menu" style="display: none;">
+                                        <li><a href="#">Body</a></li>
+                                        <li><a href="#">Skin</a></li>
+                                        <li><a href="#">Wellness</a></li>
+                                    </ul>
+                                </li>
                                 <li><a class="menu-title" href="#">SẢN PHẨM</a></li>
                                 <li><a class="menu-title" href="#">TIN TỨC VÀ KHUYẾN MÃI</a></li>
                             </ul>
@@ -172,13 +186,41 @@
                     <div class="col-md-12">
                         <ul class="nav nav-tabs">
                             <li><span class="product-title">CHĂM SÓC DA.......</span></li>
-                            <li class="pull-right mb-product"><a id="tab-title" href="#vesinhtoanthan" data-toggle="tab">VỆ SINH TOÀN THÂN</a></li>
-                            <li class="pull-right mb-product"><a id="tab-title" href="#vesinhdavatoc" data-toggle="tab">VỆ SINH DA VÀ TÓC</a></li>
-                            <li class="pull-right mb-product"><a id="tab-title" href="#daugoi" data-toggle="tab">DẦU GỘI</a></li>
-                            <li class="pull-right mb-product"><a id="tab-title" href="#dauduongtoc" data-toggle="tab">DẦU DƯỠNG TÓC</a></li>
-                            <li class="pull-right mb-product"><a id="tab-title" href="#chamsocsuckhoe" data-toggle="tab">CHĂM SÓC SỨC KHOẺ</a></li>
-                            <li class="pull-right mb-product"><a id="tab-title" href="#chamsocmoi" data-toggle="tab">CHĂM SÓC MÔI</a></li>
-                            <li class="active pull-right mb-product"><a id="tab-title" href="#chamsocda" data-toggle="tab">CHĂM SÓC DA</a></li>
+                            <li class="pull-right mb-product">
+                                <a id="tab-title" href="#vesinhtoanthan" data-toggle="tab">
+                                    <span class="top-left pull-left"></span>VỆ SINH TOÀN THÂN
+                                </a>
+                            </li>
+                            <li class="pull-right mb-product">
+                                <a id="tab-title" href="#vesinhdavatoc" data-toggle="tab">
+                                    <span class="top-left pull-left"></span>VỆ SINH DA VÀ TÓC
+                                </a>
+                            </li>
+                            <li class="pull-right mb-product">
+                                <a id="tab-title" href="#daugoi" data-toggle="tab">
+                                    <span class="top-left pull-left"></span>DẦU GỘI
+                                </a>
+                            </li>
+                            <li class="pull-right mb-product">
+                                <a id="tab-title" href="#dauduongtoc" data-toggle="tab">
+                                    <span class="top-left pull-left"></span>DẦU DƯỠNG TÓC
+                                </a>
+                            </li>
+                            <li class="pull-right mb-product">
+                                <a id="tab-title" href="#chamsocsuckhoe" data-toggle="tab">
+                                    <span class="top-left pull-left"></span>CHĂM SÓC SỨC KHOẺ
+                                </a>
+                            </li>
+                            <li class="pull-right mb-product">
+                                <a id="tab-title" href="#chamsocmoi" data-toggle="tab">
+                                    <span class="top-left pull-left"></span>CHĂM SÓC MÔI
+                                </a>
+                            </li>
+                            <li class="active pull-right mb-product">
+                                <a id="tab-title" href="#chamsocda" data-toggle="tab">
+                                    <span class="top-left pull-left"></span>CHĂM SÓC DA
+                                </a>
+                            </li>
                         </ul>
                         <div class="tab-content" id="tabs">
                             <div class="tab-pane active" id="chamsocda">
